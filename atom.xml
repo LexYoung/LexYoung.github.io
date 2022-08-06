@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://LexYoung.github.io</id>
+    <title>Gridea</title>
+    <updated>2022-08-06T12:04:55.971Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://LexYoung.github.io"/>
+    <link rel="self" href="https://LexYoung.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://LexYoung.github.io/images/avatar.png</logo>
+    <icon>https://LexYoung.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[test picture]]></title>
+        <id>https://LexYoung.github.io/post/test-picture/</id>
+        <link href="https://LexYoung.github.io/post/test-picture/">
+        </link>
+        <updated>2022-08-06T11:00:38.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://LexYoung.github.io/post-images/1659784369193.png" alt="" loading="lazy"><img src="%22C:%5CUsers%5CAdministrator%5CDownloads%5Ctest.jpeg%22" alt="xxx" loading="lazy"></p>
+<p> </p>
+<hr>
+<p> </p>
+<p>111<br>
+ </p>
+<hr>
+<p> </p>
+<figure data-type="image" tabindex="1"><img src="https://LexYoung.github.io/post-images/1659783720631.jpeg" alt="123" loading="lazy"></figure>
+]]></content>
+    </entry>
+</feed>
